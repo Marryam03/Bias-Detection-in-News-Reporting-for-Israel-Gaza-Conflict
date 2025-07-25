@@ -1,6 +1,6 @@
 # Bias Detection in News Reporting: NLP Framework for Israel-Gaza Conflict
 
-This project presents an NLP-based framework for detecting bias in news reporting, with a focus on the politically sensitive and polarized context of the Israel-Gaza conflict. The framework leverages **Nakba narratives** as linguistic resources and combines advanced preprocessing, class imbalance handling, and machine learning models to enhance bias detection accuracy.
+This project presents an NLP-based framework for detecting bias in news reporting, with a focus on the politically sensitive and polarized context of the Israel-Gaza conflict. The framework leverages **Nakba narratives** as linguistic resources and combines advanced preprocessing, class imbalance handling, and machine learning models to enhance the accuracy of bias detection.
 
 ## 🗂 Dataset
 
